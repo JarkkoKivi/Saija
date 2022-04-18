@@ -20,7 +20,7 @@ App is written with python 3 and uses TKinter framework for desktop apps
 How to Install
 -------
 
-| Install **pipenv**. Instructions for installing pipenv can be found <https://pipenv.pypa.io/en/latest/>. 
+| Install **pipenv**. Instructions for installing pipenv can be found at <https://pipenv.pypa.io/en/latest/>. 
 | Clone git repository and cd into läsnäololaskuri folder
 | Run *pipenv install* from your command line. Pipenv will install all necessary dependencies.
 | ! Remember to choose right python interpreter.
@@ -28,4 +28,4 @@ How to Install
 Main file
 -------
 
-Projects main file is: lasnaololaskuri.py
+Projects main file is: **lasnaololaskuri.py**
