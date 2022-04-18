@@ -21,3 +21,8 @@ How to Install
 -------
 
 Install pipenv and run pipenv install in the apps main directory. Pipenv will install all required dependencies
+
+Main file
+-------
+
+Projects main file is: lasnaololaskuri.py

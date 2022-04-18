@@ -1,3 +1,10 @@
+################################################
+#                                              #
+#           THIS IS THE MAIN FILE              #
+#                                              #
+################################################
+
+
 import tkinter as tk
 from tkinter import Menu, PhotoImage, Scrollbar, TclError, Toplevel
 from tkinter.tix import COLUMN, IMAGE
